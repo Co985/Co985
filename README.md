@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Co985
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Data Science and Python.
-- 💞️ I’m looking to collaborate on Python projects. 
+- 👀 I’m interested in Software developement.
+- 🌱 I’m currently learning JAVA, HTML, JAVASCRIPT.
+- 💞️ I’m looking to collaborate on JAVA projects. 
 - 📫 How to reach me corettaj27@gmail.com
 
 <!---
